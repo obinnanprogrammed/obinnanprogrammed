@@ -11,5 +11,5 @@ My name is Obinna Nwakwue and I am an aspiring software engineer studying comput
 <b>Databases:</b> MySQL, Apache Cassandra, MongoDB, Firebase<br />
 <b>Tools:</b> Git/Github, Expo, Vercel, Render<br />
 ## Reach me!
-- <link href="https://obinnanwakwue.tech">My Portfolio</link>
-- <link href="https://www.linkedin.com/in/obinwa05">LinkedIn</link>
+- [My Portfolio](https://obinnanwakwue.tech)
+- [LinkedIn](https://www.linkedin.com/in/obinwa05)
