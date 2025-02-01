@@ -3,7 +3,7 @@ My name is Obinna Nwakwue and I am an aspiring software engineer studying comput
 ## Notables!
 - I am currently working on ScalesGalore, an interactive scale dictionary for beginner musicians.
 - I am a project manager for Aggie Coding Club. My project, NPCRoom, teaches students about web development using React, Spring Boot, and MongoDB.
-- I am a PT for Texas A&M's introductory engineering course, ENGR 102.
+- I am a TA for Texas A&M's data structures and algorithms course (CSCE 221).
 - I am a member of the Texas A&M University Trombone Choir.
 ## Tech Stack
 <b>Languages:</b> HTML/CSS, JavaScript/TypeScript, Python, C/C++, Java, Kotlin<br />
