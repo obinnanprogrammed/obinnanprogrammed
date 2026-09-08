@@ -1,10 +1,10 @@
 ## Hello, you awesome person! 👋
 My name is Obinna Nwakwue, and I am an aspiring software engineer studying computer science at Texas A&M University. My main interest is using software development in music technology and education.
 ## Notables!
-- Prev. SWE Intern @ Niantic, incoming SWE Intern @ Google
+- Prev. SWE Intern @ Google, Niantic
 - Workshops Chair and Project Manager @ Aggie Coding Club!
 - TA for Data Structures and Algorithms (CSCE 221)
-- Member of Texas A&M University Trombone Choir, Concert Band
+- Member of Texas A&M University Trombone Choir, Concert Band (formerly)
 ## Tech Stack
 <b>Languages:</b> HTML/CSS, JavaScript/TypeScript, Python, C/C++, Java, Kotlin<br />
 <b>Frameworks:</b> React, React Native, MaterialUI, Vexflow, Spring Boot, Axios<br />
